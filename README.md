@@ -1,6 +1,5 @@
 # mongoose-plugin-timestamp
-[![Build Status](https://circleci.com/gh/MrBoolean/mongoose-plugin-timestamp.svg?style=shield&circle-token=adcd04014305c8bcb9a2e220fd9e5a3b5ccd0f84)](https://circleci.com/gh/MrBoolean/mmongoose-plugin-timestamp/tree/master) [![Codacy Badge](https://api.codacy.com/project/badge/grade/86af92bf8dd74e3698ab0c79496cf364)](https://www.codacy.com/app/mrboolean/mongoose-plugin-timestamp)
-
+[![Circle CI](https://circleci.com/gh/MrBoolean/mongoose-plugin-timestamp.svg?style=svg)](https://circleci.com/gh/MrBoolean/mongoose-plugin-timestamp)
 
 # Install
 ```
